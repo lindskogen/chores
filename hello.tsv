@@ -1,0 +1,26 @@
+Clean sink	Kitchen	7	Allen	5	2020-04-06
+Clean range hood	Kitchen	90	Allen	20	2020-04-06
+Reprime water filters	Kitchen	30	Allen	5	2020-04-06
+Clean microwave inside	Kitchen	30	Allen	5	2020-04-06
+Clean dishwasher	Kitchen	30	Allen	5	2020-04-06
+Clean refrigerator + freezer inside	Kitchen	42	Allen	10	2020-04-06
+Clean stovetop	Kitchen	90	Allen	30	2020-04-06
+Clean oven inside	Kitchen	180	Allen	60	2020-04-06
+Wash delicates	Laundry	42	Meryl	20	2020-04-06
+Laundry (+cleaning cloths/pillowcase)	Laundry	14	Allen	5	2020-04-06
+Fold clothes	Laundry	14	Both	20	2020-04-06
+Launder whites (+ cleaning cloths. Whites setting, 1/2 cap bleach)	Laundry	60	Allen	10	2020-04-06
+Launder sheets	Laundry	60	Allen	15	2020-04-06
+Water plants	Living room	7	Meryl	2	2020-04-06
+Vacuum furniture	Living room	90	Meryl	15	2020-04-06
+Replace plant food spikes	Living room	60	Meryl	10	2020-04-06
+Roomba office	Office	21	Allen	10	2020-04-06
+Sweep/wash balconies	Outside	180	Meryl	45	2020-04-06
+Roomba house	Roomba	7	Meryl	25	2020-04-06
+Change air filter in HVAC	Utility	180	Allen	5	2020-04-06
+Wipe door handles	Whole house	42	Allen	10	2020-04-06
+Dust and wipe surfaces	Whole house	42	Allen	15	2020-04-06
+Vacuum corners	Whole house	42	Allen	15	2020-04-06
+Vacuum and wipe drawers	Whole house	120	Meryl	30	2020-04-06
+Clean windowsills and window frames	Whole house	90	Allen	20	2020-04-06
+Vacuum, dust and wipe baseboards (alt. X stairs | behind furniture)	Whole house	90	Allen	45	2020-04-06
